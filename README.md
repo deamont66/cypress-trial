@@ -18,8 +18,7 @@ Prepare test cases for the following user stories and automate using Cypress wha
 
 ### Task list and basic task management
 As a user, I need a way to manage my tasks.
-I need to be able to add tasks, mark them as done, and delete them.
-I also need to be able to see a list of all tasks and be able to unmarked done tasks as done.
+I want to have a simple todo list that will help me organize what I need to do :)
 
 #### Acceptance criteria:
 - Each task should have a required title.
@@ -32,11 +31,7 @@ I also need to be able to see a list of all tasks and be able to unmarked done t
 - It should be possible to delete a task ("x" button right of the task title).
 
 ### Task list and advanced task management
-As a user, I'm expecting more advanced ways to manage my tasks.
-I need a way to edit a task title after it's already been added.
-I need to be able to mark all tasks as done at once.
-I need to be able to remove all done tasks at once.
-I need to be able to filter tasks using done state (list all, only active and only completed).
+As a user, I'm expecting more advanced ways to manage my tasks to boost my efficiency when working with my todo list.
 
 #### Acceptance criteria:
 - Each task title should be editable (after double click).
