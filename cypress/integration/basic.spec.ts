@@ -1,9 +1,3 @@
 describe('Basic', () => {
-    beforeEach(() => {
-        cy.visit('https://example.cypress.io/todo');
-    });
-
-    it('should display the correct title', () => {
-        cy.contains('h1', 'todos');
-    });
+    // TODO: add your tests (or create a separate files)
 });
